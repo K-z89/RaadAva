@@ -1,6 +1,6 @@
 
 # RaadAva ⚡
-> It's logical.
+> Talk is cheap. Show me the code.
 ---
 
 
