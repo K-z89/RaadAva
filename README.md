@@ -3,16 +3,6 @@
 > It's logical.
 ---
 
-## 🚀 نصب و اجرای فوری (کپی کن و اجرا کن)
-بدون سوال، بدون دردسر — این تک‌خطو کپی کن و توی ترمینال بزنی:
-
-```bash
-git clone https://github.com/K-z89/RaadAva.git && cd RaadAva && pip install -r requirements.txt && python 2.py
-```
-
-تمام. اجرا شدی. خروجی رنگی آماده‌ست.
-
----
 
 ## 📝 درباره‌ی پروژه
 
