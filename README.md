@@ -53,5 +53,5 @@ git clone https://github.com/K-z89/RaadAva.git && cd RaadAva && pip install -r r
 ## 🤝 مشارکت
 
 اگه خواستی قابلیت اضافه کنیم: تنظیم طول یوزرنیم، نرخ درخواست، ذخیرهٔ OKها توی فایل، یا ارسال نوتیف، بگو تا اضافه کنم.
-
+Kiyanhiydri570@gamil.com 
 ```
