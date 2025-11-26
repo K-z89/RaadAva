@@ -47,7 +47,7 @@
 git clone https://github.com/K-z89/RaadAva.git
 cd RaadAva
 pip install -r requirements.txt
-python 2.py
+python main.py
 ```
 
 نتایج در ترمینال چاپ می‌شوند؛ یوزرنیم‌های آزاد سبز و یوزرنیم‌های پر قرمز نمایش داده می‌شوند.
